@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>My 3D Portfolio</title>
+    <style>
+      body { margin: 0; background-color: #111; color: white; font-family: sans-serif; text-align: center; }
+      iframe { width: 80%; height: 500px; border: none; margin-top: 20px; }
+    </style>
+  </head>
+  <body>
+    <h1>Antoine Skots – 3D Product Visualization</h1>
+    <p>Perfume Bottle Showcase</p>
+    <iframe src="https://sketchfab.com/models/YOUR-MODEL-ID/embed"></iframe>
+  </body>
+</html>
